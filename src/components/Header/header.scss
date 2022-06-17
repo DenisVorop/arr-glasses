@@ -1,0 +1,77 @@
+.header {
+    background: #7705BF;
+
+    // .header__container
+
+    &__container {}
+
+    // .header__body
+
+    &__body {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 16px 0px;
+    }
+
+    // .header__logo
+
+    &__logo {
+        display: flex;
+        align-items: center;
+    }
+
+    // .header__navigation
+
+    &__navigation {}
+
+    // .header__links
+
+    &__links {
+        display: flex;
+        align-items: center;
+        font-size: 20px;
+        line-height: 130%;
+        color: #FCF7FF;
+    }
+
+    // .header__link
+
+    &__link {
+        cursor: pointer;
+        transition: all 0.1s ease 0s;
+
+        &:hover {
+            border-bottom: 2px solid #FCF7FF;
+        }
+
+        &:not(:last-child) {
+            margin: 0px 32px 0px 0px;
+        }
+    }
+}
+
+.logo-header {
+
+    // .logo-header__image
+
+    &__image {
+        margin: 0px 16px 0px 0px;
+    }
+
+    // .logo-header__label
+
+    &__label {
+        font-family: 'Dela Gothic One';
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 29px;
+        display: flex;
+        align-items: center;
+        color: #FCF7FF;
+    }
+}
+
+.link-active {
+    border-bottom: 2px solid #FCF7FF;
+}

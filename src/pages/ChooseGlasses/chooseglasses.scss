@@ -1,0 +1,243 @@
+.choose-glasses {
+
+    // .choose-glasses__container
+
+    &__container {}
+
+    // .choose-glasses__body
+
+    &__body {
+        padding: 33px 0px;
+        display: flex;
+        gap: 32px;
+    }
+
+    // .choose-glasses__catalog
+
+    &__catalog {}
+
+    // .choose-glasses__video
+
+    &__video {
+        width: 696px;
+        height: 80vh;
+        background: #F3E0FF;
+        border-radius: 4px;
+    }
+
+    // .choose-glasses__information
+
+    &__information {
+        display: flex;
+        flex-direction: column;
+        flex: 1 0 auto;
+    }
+}
+
+.catalog-choose-glasses {
+
+    // .catalog-choose-glasses__top
+
+    &__top {
+        display: flex;
+        align-items: center;
+    }
+
+    // .catalog-choose-glasses__label
+
+    &__label {
+        font-size: 18px;
+        line-height: 130%;
+        margin: 0px 53px 0px 0px;
+    }
+
+    // .catalog-choose-glasses__sort
+
+    &__sort {
+        cursor: pointer;
+        margin: 0px 2.5px 0px 0px;
+        transition: all 0.3s ease 0s;
+
+        &:hover {
+            transform: scale(1.05);
+        }
+    }
+
+    // .catalog-choose-glasses__filter
+
+    &__filter {
+        cursor: pointer;
+        transition: all 0.3s ease 0s;
+
+        &:hover {
+            transform: scale(1.05);
+        }
+    }
+
+    // .catalog-choose-glasses__slider
+
+    &__slider {}
+}
+
+.video-choose-glasses {
+
+    // .video-choose-glasses__frame
+
+    &__frame {}
+}
+
+.information-choose-glasses {
+
+    // .information-choose-glasses__top
+
+    &__top {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin: 0px 0px 8px 0px;
+    }
+
+    // .information-choose-glasses__title
+
+    &__title {
+        font-size: 28px;
+        line-height: 130%;
+    }
+
+    // .information-choose-glasses__choosed
+
+    &__choosed {
+        display: flex;
+        align-items: center;
+    }
+
+    // .information-choose-glasses__favorite
+
+    &__favorite {
+        margin: 0px 12px 0px 0px;
+        cursor: pointer;
+        transition: all 0.3s ease 0s;
+        position: relative;
+
+        &:hover {
+            transform: scale(1.05);
+        }
+    }
+
+    // .information-choose-glasses__favorite-amount
+
+    &__favorite-amount {
+        right: -10px;
+        top: -10px;
+        background-color: #A2FD07;
+        position: absolute;
+        padding: 4px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 22px;
+    }
+
+    // .information-choose-glasses__cart
+
+    &__cart {
+        cursor: pointer;
+        transition: all 0.3s ease 0s;
+        position: relative;
+
+        &:hover {
+            transform: scale(1.05);
+        }
+    }
+
+    // .information-choose-glasses__cart-amount
+
+    &__cart-amount {
+        right: -10px;
+        top: -10px;
+        background-color: #A2FD07;
+        position: absolute;
+        padding: 4px;
+        border-radius: 50%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 22px;
+    }
+
+    // .information-choose-glasses__label
+
+    &__label {
+        font-size: 18px;
+        line-height: 130%;
+        color: #3C0161;
+        margin: 0px 0px 40px 0px;
+    }
+
+    // .information-choose-glasses__characteristics
+
+    &__characteristics {}
+
+    // .information-choose-glasses__button
+
+    &__button {}
+}
+
+.characteristics-information-choose-glasses {
+
+    // .characteristics-information-choose-glasses__label
+
+    &__label {
+        font-size: 18px;
+        line-height: 130%;
+        margin: 0px 0px 16px 0px;
+    }
+}
+
+.characteristics {
+    margin: 0px 0px 48px 0px;
+}
+
+.characteristic {
+    display: flex;
+    align-items: center;
+
+    &:not(:last-child) {
+        margin: 0px 0px 8px 0px;
+    }
+
+    // .characteristic__label
+
+    &__label {
+        font-size: 14px;
+        line-height: 130%;
+        margin: 0px 4px 0px 0px;
+    }
+
+    // .characteristic__text
+
+    &__text {
+        font-size: 14px;
+        line-height: 130%;
+        color: #3C0161;
+    }
+}
+
+.btn {
+    padding: 16px 0px;
+    font-size: 18px;
+    line-height: 130%;
+    background: #A2FD07;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 270px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+
+    &:hover {
+        background-color: darken(#A2FD07, 5);
+    }
+}
