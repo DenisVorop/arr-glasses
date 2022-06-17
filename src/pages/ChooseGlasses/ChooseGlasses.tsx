@@ -11,7 +11,6 @@ const characteristics = [
     'Пол:',
     'Страна:',
     'Материал оправы:',
-    'Материал оправы:',
     'Цвет оправы:',
     'Цвет заушника:',
     'Длина заушника:',
@@ -21,7 +20,6 @@ const characteristics = [
 ]
 
 const ChooseGlasses: React.FC = () => {
-    const [favoriteAmount, setFavoriteAmount] = React.useState<number>(2)
     const [cartAmount, setCartAmount] = React.useState<number>(10)
 
     return (
@@ -49,11 +47,6 @@ const ChooseGlasses: React.FC = () => {
                             <div className="information-choose-glasses__choosed">
                                 <div className="information-choose-glasses__favorite">
                                     <img src={favorite} alt="favorite" />
-                                    {favoriteAmount
-                                        ? <span className="information-choose-glasses__favorite-amount">
-                                            {favoriteAmount}
-                                        </span>
-                                        : null}
                                 </div>
                                 <div className="information-choose-glasses__cart">
                                     <img src={cart} alt="cart" />

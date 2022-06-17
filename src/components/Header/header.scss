@@ -40,13 +40,15 @@
     &__link {
         cursor: pointer;
         transition: all 0.1s ease 0s;
+        margin: 2px 0px 0px 0px;
+        border-bottom: 2px solid #7705BF;
 
         &:hover {
             border-bottom: 2px solid #FCF7FF;
         }
 
         &:not(:last-child) {
-            margin: 0px 32px 0px 0px;
+            margin: 2px 32px 0px 0px;
         }
     }
 }
