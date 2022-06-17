@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/arr-glasses/static/css/main.d62eec98.css",
-    "main.js": "/arr-glasses/static/js/main.7f632210.js",
+    "main.css": "/arr-glasses/static/css/main.1e13a86f.css",
+    "main.js": "/arr-glasses/static/js/main.665715fd.js",
     "static/media/filter.svg": "/arr-glasses/static/media/filter.b7625fdc0580ca6944be990862a3aecd.svg",
     "static/media/cart.svg": "/arr-glasses/static/media/cart.6906b5d0269e9f445e80d56135c2d905.svg",
     "static/media/favorite.svg": "/arr-glasses/static/media/favorite.c11f699aa01e3933cb42dafa8667034b.svg",
     "static/media/logo.svg": "/arr-glasses/static/media/logo.8c2f710c36cdbb47f12107b38548996b.svg",
     "static/media/sort.svg": "/arr-glasses/static/media/sort.b612167d4c8b1a664d9f50904ef8e5c9.svg",
     "index.html": "/arr-glasses/index.html",
-    "main.d62eec98.css.map": "/arr-glasses/static/css/main.d62eec98.css.map",
-    "main.7f632210.js.map": "/arr-glasses/static/js/main.7f632210.js.map"
+    "main.1e13a86f.css.map": "/arr-glasses/static/css/main.1e13a86f.css.map",
+    "main.665715fd.js.map": "/arr-glasses/static/js/main.665715fd.js.map"
   },
   "entrypoints": [
-    "static/css/main.d62eec98.css",
-    "static/js/main.7f632210.js"
+    "static/css/main.1e13a86f.css",
+    "static/js/main.665715fd.js"
   ]
 }
