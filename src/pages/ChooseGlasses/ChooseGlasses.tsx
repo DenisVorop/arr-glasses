@@ -1,5 +1,7 @@
 import React from 'react'
 
+import Button from '../../components/Button/Button'
+
 import sort from '../../assets/images/ChooseGlasses/sort.svg'
 import filter from '../../assets/images/ChooseGlasses/filter.svg'
 import favorite from '../../assets/images/ChooseGlasses/favorite.svg'
@@ -70,9 +72,7 @@ const ChooseGlasses: React.FC = () => {
                                 ))}
                             </div>
                         </div>
-                        <div className="information-choose-glasses__button btn">
-                            Добавить в корзину
-                        </div>
+                        <Button>Добавить в корзину</Button>
                     </div>
                 </div>
             </div>

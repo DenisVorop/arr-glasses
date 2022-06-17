@@ -39,7 +39,7 @@
 
     &__link {
         cursor: pointer;
-        transition: all 0.1s ease 0s;
+        transition: all 0.2s ease 0s;
         margin: 2px 0px 0px 0px;
         border-bottom: 2px solid #7705BF;
 
@@ -65,7 +65,6 @@
 
     &__label {
         font-family: 'Dela Gothic One';
-        font-weight: 400;
         font-size: 20px;
         line-height: 29px;
         display: flex;

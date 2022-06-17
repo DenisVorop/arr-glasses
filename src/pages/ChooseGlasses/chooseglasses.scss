@@ -145,10 +145,6 @@
     // .information-choose-glasses__characteristics
 
     &__characteristics {}
-
-    // .information-choose-glasses__button
-
-    &__button {}
 }
 
 .characteristics-information-choose-glasses {
@@ -188,23 +184,5 @@
         font-size: 14px;
         line-height: 130%;
         color: #3C0161;
-    }
-}
-
-.btn {
-    padding: 16px 0px;
-    font-size: 18px;
-    line-height: 130%;
-    background: #A2FD07;
-    border-radius: 4px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    max-width: 270px;
-    cursor: pointer;
-    transition: all 0.3s ease 0s;
-
-    &:hover {
-        background-color: darken(#A2FD07, 5);
     }
 }

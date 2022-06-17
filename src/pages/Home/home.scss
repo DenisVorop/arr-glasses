@@ -1,0 +1,61 @@
+.home {
+    background: linear-gradient(142.68deg, #9F07FD 21.28%, #6401A1 99.94%);
+    height: calc(100vh - 64px);
+
+    // .home__container
+
+    &__container {}
+
+    // .home__wrapper
+
+    &__wrapper {
+        display: flex;
+        padding: 140px 0px 0px 0px;
+        height: 100%;
+    }
+
+    // .home__background
+
+    &__background {
+        margin-left: auto;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        img {
+            width: 84%;
+            height: auto;
+        }
+    }
+
+    // .home__body
+
+    &__body {
+        position: absolute;
+    }
+
+    // .home__title
+
+    &__title {
+        font-family: 'Dela Gothic One';
+        font-size: 88px;
+        line-height: 120%;
+        color: #FCF7FF;
+        margin: 0px 0px 48px 0px;
+    }
+
+    // .home__label
+
+    &__label {
+        font-size: 22px;
+        line-height: 130%;
+        color: #F3E0FF;
+        margin: 0px 0px 64px 0px;
+    }
+
+    // .home__btn
+
+    &__btn {
+        width: fit-content;
+    }
+}
