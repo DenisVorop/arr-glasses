@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.33c47ce5.css",
-    "main.js": "/static/js/main.188401ed.js",
-    "static/media/mainHuman.png": "/static/media/mainHuman.79b35e2998d6d2f7f377.png",
-    "static/media/dela-gothic-one-v10-latin_cyrillic-regular.svg": "/static/media/dela-gothic-one-v10-latin_cyrillic-regular.6d662d63a7d5ec630ed5.svg",
-    "static/media/dela-gothic-one-v10-latin_cyrillic-regular.ttf": "/static/media/dela-gothic-one-v10-latin_cyrillic-regular.eed8e18e3d57b13c350e.ttf",
-    "static/media/dela-gothic-one-v10-latin_cyrillic-regular.woff": "/static/media/dela-gothic-one-v10-latin_cyrillic-regular.bb6ebf924cc49abe01ae.woff",
-    "static/media/dela-gothic-one-v10-latin_cyrillic-regular.eot": "/static/media/dela-gothic-one-v10-latin_cyrillic-regular.0f16355cbec1efcb651a.eot",
-    "static/media/dela-gothic-one-v10-latin_cyrillic-regular.woff2": "/static/media/dela-gothic-one-v10-latin_cyrillic-regular.c1227595024b65e1beee.woff2",
-    "static/media/filter.svg": "/static/media/filter.b7625fdc0580ca6944be990862a3aecd.svg",
-    "static/media/cart.svg": "/static/media/cart.6906b5d0269e9f445e80d56135c2d905.svg",
-    "static/media/favorite.svg": "/static/media/favorite.c11f699aa01e3933cb42dafa8667034b.svg",
-    "static/media/logo.svg": "/static/media/logo.8c2f710c36cdbb47f12107b38548996b.svg",
-    "static/media/sort.svg": "/static/media/sort.7b478b6c86304d919ffb56069984f8b2.svg",
-    "index.html": "/index.html",
-    "main.33c47ce5.css.map": "/static/css/main.33c47ce5.css.map",
-    "main.188401ed.js.map": "/static/js/main.188401ed.js.map"
+    "main.css": "/arr-glasses/static/css/main.47675a53.css",
+    "main.js": "/arr-glasses/static/js/main.3ff228d5.js",
+    "static/media/mainHuman.png": "/arr-glasses/static/media/mainHuman.79b35e2998d6d2f7f377.png",
+    "static/media/dela-gothic-one-v10-latin_cyrillic-regular.svg": "/arr-glasses/static/media/dela-gothic-one-v10-latin_cyrillic-regular.6d662d63a7d5ec630ed5.svg",
+    "static/media/dela-gothic-one-v10-latin_cyrillic-regular.ttf": "/arr-glasses/static/media/dela-gothic-one-v10-latin_cyrillic-regular.eed8e18e3d57b13c350e.ttf",
+    "static/media/dela-gothic-one-v10-latin_cyrillic-regular.woff": "/arr-glasses/static/media/dela-gothic-one-v10-latin_cyrillic-regular.bb6ebf924cc49abe01ae.woff",
+    "static/media/dela-gothic-one-v10-latin_cyrillic-regular.eot": "/arr-glasses/static/media/dela-gothic-one-v10-latin_cyrillic-regular.0f16355cbec1efcb651a.eot",
+    "static/media/dela-gothic-one-v10-latin_cyrillic-regular.woff2": "/arr-glasses/static/media/dela-gothic-one-v10-latin_cyrillic-regular.c1227595024b65e1beee.woff2",
+    "static/media/filter.svg": "/arr-glasses/static/media/filter.b7625fdc0580ca6944be990862a3aecd.svg",
+    "static/media/cart.svg": "/arr-glasses/static/media/cart.6906b5d0269e9f445e80d56135c2d905.svg",
+    "static/media/favorite.svg": "/arr-glasses/static/media/favorite.c11f699aa01e3933cb42dafa8667034b.svg",
+    "static/media/logo.svg": "/arr-glasses/static/media/logo.8c2f710c36cdbb47f12107b38548996b.svg",
+    "static/media/sort.svg": "/arr-glasses/static/media/sort.7b478b6c86304d919ffb56069984f8b2.svg",
+    "index.html": "/arr-glasses/index.html",
+    "main.47675a53.css.map": "/arr-glasses/static/css/main.47675a53.css.map",
+    "main.3ff228d5.js.map": "/arr-glasses/static/js/main.3ff228d5.js.map"
   },
   "entrypoints": [
-    "static/css/main.33c47ce5.css",
-    "static/js/main.188401ed.js"
+    "static/css/main.47675a53.css",
+    "static/js/main.3ff228d5.js"
   ]
 }
